@@ -59,7 +59,7 @@ export function Experience() {
 
             <div className="company-head">
               <h3>OffsetFarm </h3>
-              <div>June 2023 - Sept 2024</div>
+              <div>April 2023 - Sept 2024</div>
             </div>
 
             <div className="body">
