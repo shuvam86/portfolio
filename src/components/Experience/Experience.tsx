@@ -23,7 +23,7 @@ export function Experience() {
 
             <div className="company-head">
               <h3>CogniTensor </h3>
-              <div>Oct 2024 - April 2025</div>
+              <div>Oct 2024 - Present</div>
             </div>
 
             <div className="body">
