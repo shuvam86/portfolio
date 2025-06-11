@@ -19,7 +19,7 @@ export function Experience() {
                 </div>
               </div>
             </header>
-            <h3>Full Stack Developer</h3>
+            <h3>Software Engineer</h3>
 
             <div className="company-head">
               <h3>CogniTensor </h3>
@@ -55,7 +55,7 @@ export function Experience() {
                 </div>
               </div>
             </header>
-            <h3>Full Stack Developer</h3>
+            <h3>Software Engineer</h3>
 
             <div className="company-head">
               <h3>OffsetFarm </h3>
@@ -119,7 +119,7 @@ export function Experience() {
                 </div>
               </div>
             </header>
-            <h3>Full Stack Developer</h3>
+            <h3>Full Stack Intern</h3>
             <div className="company-head">
               <h3>Adpushup Software India Pvt Ltd, New Delhi </h3>
               <div> Jan 2023 - April 2023</div>
